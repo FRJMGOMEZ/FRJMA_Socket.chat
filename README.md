@@ -1,9 +1,5 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Este es el backend de una aplicación de chat todo los mensajes llegan a la consola, falta crear el frontend.
 
-Recuerden que deben de reconstruir los módulos de node con el comando
-
-```
-npm install
-```
+FRJMA.
